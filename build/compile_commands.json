@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/vscodeProject/demo2/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/test.dir/includes_CXX.rsp -g -o CMakeFiles\\test.dir\\src\\main.cpp.obj -c E:\\vscodeProject\\demo2\\src\\main.cpp",
+  "file": "E:/vscodeProject/demo2/src/main.cpp"
+},
+{
+  "directory": "E:/vscodeProject/demo2/build/output",
+  "command": "D:\\mingw64\\bin\\g++.exe -Dsub_EXPORTS @CMakeFiles/sub.dir/includes_CXX.rsp -g -o CMakeFiles\\sub.dir\\test.cpp.obj -c E:\\vscodeProject\\demo2\\src\\sub\\test.cpp",
+  "file": "E:/vscodeProject/demo2/src/sub/test.cpp"
+}
+]

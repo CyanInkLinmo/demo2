@@ -1,0 +1,6 @@
+E:/vscodeProject/demo2/build/CMakeFiles/test.dir
+E:/vscodeProject/demo2/build/CMakeFiles/edit_cache.dir
+E:/vscodeProject/demo2/build/CMakeFiles/rebuild_cache.dir
+E:/vscodeProject/demo2/build/output/CMakeFiles/sub.dir
+E:/vscodeProject/demo2/build/output/CMakeFiles/edit_cache.dir
+E:/vscodeProject/demo2/build/output/CMakeFiles/rebuild_cache.dir
